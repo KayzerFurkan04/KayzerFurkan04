@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
 <h1 align="center">Hi 👋, I'm Ahmet Furkan Öcel</h1>
 <h3 align="center">a software engineering student from Türkiye</h3>
 
