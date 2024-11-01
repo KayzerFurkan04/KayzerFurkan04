@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/07/98/27/15/360_F_798271524_99tsRBBs4RqLIrTjv3qLHWMsiBqVXH33.jpg)
+[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e96e62aa-16de-490d-8797-ec8d99edc46c/dgbc8qm-0138f745-5a7a-4404-864c-e89bce07f138.png/v1/fill/w_1182,h_676,q_70,strp/hacker_with_hoodie_by_manthan003_dgbc8qm-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvZTk2ZTYyYWEtMTZkZS00OTBkLTg3OTctZWM4ZDk5ZWRjNDZjXC9kZ2JjOHFtLTAxMzhmNzQ1LTVhN2EtNDQwNC04NjRjLWU4OWJjZTA3ZjEzOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5b-Ks0WPx6d5mrmjxWUGf-tvUEvyrKITad3G7eKvxDc)
 <h1 align="center">Hi 👋, I'm Ahmet Furkan Öcel</h1>
 <h3 align="center">a software engineering student from Türkiye</h3>
 
