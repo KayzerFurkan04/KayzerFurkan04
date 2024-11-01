@@ -1,3 +1,4 @@
+![MasterHead](https://t4.ftcdn.net/jpg/07/98/27/15/360_F_798271524_99tsRBBs4RqLIrTjv3qLHWMsiBqVXH33.jpg)
 <h1 align="center">Hi 👋, I'm Ahmet Furkan Öcel</h1>
 <h3 align="center">a software engineering student from Türkiye</h3>
 
